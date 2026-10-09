@@ -26,6 +26,7 @@ app.add_middleware(
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:4173",
+        "https://shop-circle-ks7gxyu6g-tad10.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
